@@ -6,7 +6,7 @@
 "value": {
 "csrVariantFplRanges": {
 "1A": {
-"minFpl": 100,
+"minFpl": 1000,
 "maxFpl": 150
 },
 "1B": {
