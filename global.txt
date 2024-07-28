@@ -114,7 +114,8 @@
 "deConsumerRoles": [
 "CONSUMER_DE",
 "HUB",
-"ses-hub"
+"ses-hub",
+"something"
 ],
 "directEnrollmentSourceSystemNames": [
 "DSH",
