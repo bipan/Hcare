@@ -28,11 +28,11 @@
 "dualEligibilityToggle": false,
 "autoVerificationApplicableSeps": [
 "209",
-"472"
+"4722"
 ],
 "authorizedRoleIds": [
 "MCR",
-"SES"
+
 ],
 "sepsSubjectToVerification": [],
 "sepsWithStartDateFirstOfFollowingMonth": [
@@ -1967,3 +1967,5 @@
         }
 ]
 }
+"cusom data added"
+"another daa added"
