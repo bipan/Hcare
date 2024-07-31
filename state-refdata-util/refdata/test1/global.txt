@@ -637,7 +637,7 @@
 "hideBarApplicationsEndDate": "2021-01-01T08:00:00Z",
 "oepStartDate": "2020-11-01T04:00:00Z",
 "oepEndDate": "2020-12-16T09:59:59Z",
-"oepExtensionStartDate": "2020-12-16T09:59:59Z",
+"oepExtensionStartDate": "2020-02-16T09:59:59Z",
 "oepExtensionEndDate": "2020-12-16T09:59:59Z",
 "escMecAffordabilityThreshold": 9.83,
 "hraAffordabilityThreshold": 9.83,
