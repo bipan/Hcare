@@ -34,7 +34,16 @@
 "MCR",
 "SES"
 ],
-"sepsSubjectToVerification": [],
+"sepsSubjectToVerification": ["MARRIAGE_SEP",
+"MEDICAID_CHIP_DENIAL_SEP",
+"LOSS_OF_MEC_SEP",
+"ACCELERATED_SEP",
+"ICHRA_SEP",
+"QSEHRA_SEP",
+"EXTENDED_OE_SEP",
+"FPL_150_SEP",
+"APTC_SEP",
+"CSR_SEP"],
 "sepsWithStartDateFirstOfFollowingMonth": [
 "MARRIAGE_SEP",
 "MEDICAID_CHIP_DENIAL_SEP",
