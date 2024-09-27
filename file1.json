@@ -1,4 +1,6 @@
-{"widget": {
+{
+    "Hello": "yello",
+    "widget": {
     "debug": "on",
     "window": {
         "title": "Sample Konfabulator Widget",
